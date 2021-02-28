@@ -1,4 +1,4 @@
-# Video do projeto no youtube 
+# Vídeo do projeto no youtube 
 
 <p align="center">
   <img height="150" src="img/tamb.png" />
